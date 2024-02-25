@@ -1,0 +1,6 @@
+# https://tea.xyz/bontyaka
+---
+version: 1.0.0
+codeOwners:
+  - '0x625a6a037c8DEF98afEf430FD10E26aD51756d73'
+quorum: 1
